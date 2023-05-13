@@ -1,0 +1,30 @@
+ 
+ /* .table1{
+    border: 1px solid black;
+ } */
+
+ .table1 td{
+    padding: 10px 10px;
+    
+    
+ }
+ .table2{
+    border-collapse: collapse;
+ }
+ .table2 td,tr{
+    border: 1px solid gray;
+   
+ }
+ .table3{
+    border-collapse: collapse;
+ }
+ .table3 td,tr{
+    border: 1px solid gray;
+ }
+
+ #btn-1{
+    width: 100px;
+    background-color: black;
+    color: white;
+ }
+ 
